@@ -1,0 +1,87 @@
+D:\Учёба\C#\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+D:\Учёба\C#\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+D:\Учёба\C#\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+D:\Учёба\C#\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+D:\Учёба\C#\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+D:\Учёба\C#\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\C#\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Учёба\C#\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+D:\Учёба\C#\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Учёба\C#\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+D:\Учёба\C#\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+D:\Учёба\C#\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+D:\Учёба\C#\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+D:\Учёба\C#\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
+D:\Учёба\C#\ConsoleApp2\bin\Debug\net7.0\ConsoleApp1.exe
+D:\Учёба\C#\ConsoleApp2\bin\Debug\net7.0\ConsoleApp1.deps.json
+D:\Учёба\C#\ConsoleApp2\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+D:\Учёба\C#\ConsoleApp2\bin\Debug\net7.0\ConsoleApp1.dll
+D:\Учёба\C#\ConsoleApp2\bin\Debug\net7.0\ConsoleApp1.pdb
+D:\Учёба\C#\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\C#\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Учёба\C#\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+D:\Учёба\C#\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Учёба\C#\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.dll
+D:\Учёба\C#\ConsoleApp2\obj\Debug\net7.0\refint\ConsoleApp1.dll
+D:\Учёба\C#\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.pdb
+D:\Учёба\C#\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+D:\Учёба\C#\ConsoleApp2\obj\Debug\net7.0\ref\ConsoleApp1.dll
+D:\Учёба\C#\Практическая N5\ConsoleApp2\bin\Debug\net7.0\ConsoleApp1.exe
+D:\Учёба\C#\Практическая N5\ConsoleApp2\bin\Debug\net7.0\ConsoleApp1.deps.json
+D:\Учёба\C#\Практическая N5\ConsoleApp2\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+D:\Учёба\C#\Практическая N5\ConsoleApp2\bin\Debug\net7.0\ConsoleApp1.dll
+D:\Учёба\C#\Практическая N5\ConsoleApp2\bin\Debug\net7.0\ConsoleApp1.pdb
+D:\Учёба\C#\Практическая N5\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\C#\Практическая N5\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Учёба\C#\Практическая N5\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+D:\Учёба\C#\Практическая N5\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Учёба\C#\Практическая N5\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.dll
+D:\Учёба\C#\Практическая N5\ConsoleApp2\obj\Debug\net7.0\refint\ConsoleApp1.dll
+D:\Учёба\C#\Практическая N5\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.pdb
+D:\Учёба\C#\Практическая N5\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+D:\Учёба\C#\Практическая N5\ConsoleApp2\obj\Debug\net7.0\ref\ConsoleApp1.dll
+D:\Учёба\C#\Практическая N7\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\C#\Практическая N7\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Учёба\C#\Практическая N7\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+D:\Учёба\C#\Практическая N7\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Учёба\C#\Практическая N7\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.dll
+D:\Учёба\C#\Практическая N7\ConsoleApp2\obj\Debug\net7.0\refint\ConsoleApp1.dll
+D:\Учёба\C#\Практическая N7\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.pdb
+D:\Учёба\C#\Практическая N7\ConsoleApp2\bin\Debug\net7.0\ConsoleApp1.exe
+D:\Учёба\C#\Практическая N7\ConsoleApp2\bin\Debug\net7.0\ConsoleApp1.deps.json
+D:\Учёба\C#\Практическая N7\ConsoleApp2\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+D:\Учёба\C#\Практическая N7\ConsoleApp2\bin\Debug\net7.0\ConsoleApp1.dll
+D:\Учёба\C#\Практическая N7\ConsoleApp2\bin\Debug\net7.0\ConsoleApp1.pdb
+D:\Учёба\C#\Практическая N7\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+D:\Учёба\C#\Практическая N7\ConsoleApp2\obj\Debug\net7.0\ref\ConsoleApp1.dll
+D:\Учёба\C#\Практическая N8\ConsoleApp2\bin\Debug\net7.0\ConsoleApp1.exe
+D:\Учёба\C#\Практическая N8\ConsoleApp2\bin\Debug\net7.0\ConsoleApp1.deps.json
+D:\Учёба\C#\Практическая N8\ConsoleApp2\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+D:\Учёба\C#\Практическая N8\ConsoleApp2\bin\Debug\net7.0\ConsoleApp1.dll
+D:\Учёба\C#\Практическая N8\ConsoleApp2\bin\Debug\net7.0\ConsoleApp1.pdb
+D:\Учёба\C#\Практическая N8\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\C#\Практическая N8\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Учёба\C#\Практическая N8\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+D:\Учёба\C#\Практическая N8\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Учёба\C#\Практическая N8\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.dll
+D:\Учёба\C#\Практическая N8\ConsoleApp2\obj\Debug\net7.0\refint\ConsoleApp1.dll
+D:\Учёба\C#\Практическая N8\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.pdb
+D:\Учёба\C#\Практическая N8\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+D:\Учёба\C#\Практическая N8\ConsoleApp2\obj\Debug\net7.0\ref\ConsoleApp1.dll
+D:\Учёба\C#\Практическая N9\ConsoleApp2\bin\Debug\net7.0\ConsoleApp1.exe
+D:\Учёба\C#\Практическая N9\ConsoleApp2\bin\Debug\net7.0\ConsoleApp1.deps.json
+D:\Учёба\C#\Практическая N9\ConsoleApp2\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+D:\Учёба\C#\Практическая N9\ConsoleApp2\bin\Debug\net7.0\ConsoleApp1.dll
+D:\Учёба\C#\Практическая N9\ConsoleApp2\bin\Debug\net7.0\ConsoleApp1.pdb
+D:\Учёба\C#\Практическая N9\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\C#\Практическая N9\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Учёба\C#\Практическая N9\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+D:\Учёба\C#\Практическая N9\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Учёба\C#\Практическая N9\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.dll
+D:\Учёба\C#\Практическая N9\ConsoleApp2\obj\Debug\net7.0\refint\ConsoleApp1.dll
+D:\Учёба\C#\Практическая N9\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.pdb
+D:\Учёба\C#\Практическая N9\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+D:\Учёба\C#\Практическая N9\ConsoleApp2\obj\Debug\net7.0\ref\ConsoleApp1.dll
+D:\Учёба\C#\Практическая N9\ConsoleApp2\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Учёба\C#\Практическая N9\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Учёба\C#\Практическая N9\ConsoleApp2\obj\Debug\net7.0\ConsoleApp1.csproj.CopyComplete
